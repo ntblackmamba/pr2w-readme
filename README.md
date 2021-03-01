@@ -1,2 +1,1 @@
-# pr2w-readme
-README file for PR2W
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
